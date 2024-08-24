@@ -6,3 +6,8 @@ h1{
     color: darkorange;
     background-color: grey;
 }
+p{
+    border: 2px solid purple;
+    color: aquamarine;
+    background-color: darkblue;
+}
